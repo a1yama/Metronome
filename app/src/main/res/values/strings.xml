@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Metronome</string>
+
+    <string-array name="list">
+        <item>アレグロ</item>
+        <item>アレグロ</item>
+        <item>アレグロ</item>
+        <item>アレグロ</item>
+        <item>アレグロ</item>
+        <item>アレグロ</item>
+    </string-array>
+</resources>
